@@ -1,0 +1,16 @@
+{
+  "name": "xuyingbot",
+  "version": "1.0.0",
+  "description": "xuying",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Xu Ying",
+  "license": "ISC",
+  "dependencies": {
+    "botbuilder": "^3.6.0",
+    "request-promise": "^4.1.1",
+    "restify": "^4.3.0"
+  }
+}
